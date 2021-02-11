@@ -1,0 +1,19 @@
+img{ float: center;
+    width: 400px;
+    margin: 10px;
+    border-color: yellow;
+    border-width: 2px;
+    border-style: solid;
+    }
+  p{
+    font-family: cursive;
+    color: aqua;
+  }
+  h1{
+    font-family: monospace;
+    font-size: 50px;
+  color: beige;}
+  body{
+    background-color: black;}
+  
+  
